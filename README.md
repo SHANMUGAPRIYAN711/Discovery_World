@@ -11,7 +11,7 @@ A fully responsive **Discovery World-inspired website** built using **HTML5, CSS
 Add your deployed website link here:
 
 ```
-https://your-live-demo-link.netlify.app
+https://discovery-world-eight.vercel.app/#
 ```
 
 ---
